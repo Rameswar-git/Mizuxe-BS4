@@ -1,0 +1,9 @@
+/node_modules/
+/.history/
+/.settings/
+/src/css/*
+/src/fonts/*
+/src/js/*
+*.log
+.project
+package-lock.json
